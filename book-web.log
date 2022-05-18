@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.11.10)  18 MAY 2022 17:15
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.11.10)  18 MAY 2022 18:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -434,8 +434,8 @@ LaTeX Info: Redefining \nameref on input line 92.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-File: ./photos.web/R20090531-173219-master.jpg Graphic file (type bmp)
-<./photos.web/R20090531-173219-master.jpg>
+File: ./photos.web/me.jpg Graphic file (type bmp)
+<./photos.web/me.jpg>
 (d:/texlive/2020/texmf-dist/tex/generic/stringenc/se-ascii-print.def
 File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 ) [1
@@ -448,8 +448,8 @@ File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
  (./common-book.tex [2
 
 ]
-File: ./photos.web/me.jpg Graphic file (type bmp)
-<./photos.web/me.jpg>
+File: ./photos.web/me_night.jpg Graphic file (type bmp)
+<./photos.web/me_night.jpg>
  [3] [4] [5]
 File: ./photos.web/R20090523-142346.jpg Graphic file (type bmp)
 <./photos.web/R20090523-142346.jpg>
@@ -572,31 +572,31 @@ File: ./photos.web/R20090621-152613.jpg Graphic file (type bmp)
 <./photos.web/R20090621-152613.jpg>
  [45]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 442.
+(Font)              <7> on input line 433.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 442.
+(Font)              <5> on input line 433.
 ) [46]
 File: ./photos.web/R20090619-103748.jpg Graphic file (type bmp)
 <./photos.web/R20090619-103748.jpg>
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 125.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 133.
  [47
 
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 125.
+] [48]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 133.
  (./book-web.aux (./common-book.aux))
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 125.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 125.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 133.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 133.
 Package rerunfilecheck Info: File `book-web.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 125.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 133.
  ) 
 Here is how much of TeX's memory you used:
- 11890 strings out of 479418
- 236773 string characters out of 5888104
+ 11896 strings out of 479418
+ 236909 string characters out of 5888104
  529094 words of memory out of 5000000
- 29242 multiletter control sequences out of 15000+600000
+ 29247 multiletter control sequences out of 15000+600000
  533026 words of font info for 66 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  49i,5n,86p,282b,315s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on book-web.pdf (47 pages).
+Output written on book-web.pdf (48 pages).
