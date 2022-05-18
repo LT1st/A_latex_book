@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.11.10)  18 MAY 2022 16:42
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.11.10)  18 MAY 2022 18:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -185,8 +185,7 @@ Package: iftex 2020/03/06 v1.0d TeX engine tests
 \Gm@layouthoffset=\dimen146
 \Gm@layoutvoffset=\dimen147
 \Gm@dimlist=\toks16
-)
-No file cover-blurb.aux.
+) (./cover-blurb.aux)
 \openout1 = `cover-blurb.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 109.
@@ -199,7 +198,7 @@ LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 109.
 LaTeX Font Info:    ... okay on input line 109.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 109.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 109.
-(d:/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
+ (d:/texlive/2020/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 109.
@@ -309,22 +308,25 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 112.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 112.
-File: ./photos.web/R20090619-103748.jpg Graphic file (type bmp)
-<./photos.web/R20090619-103748.jpg>
-File: ./photos.web/R20090531-173219-master.jpg Graphic file (type bmp)
-<./photos.web/R20090531-173219-master.jpg>
+File: ./photos.web/me.jpg Graphic file (type bmp)
+<./photos.web/me.jpg>
+File: ./photos.web/me.jpg Graphic file (type bmp)
+<./photos.web/me.jpg>
 [1
 
 
 
-] (./cover-blurb.aux) ) 
+]
+Overfull \vbox (26.44963pt too high) has occurred while \output is active []
+
+ [2] (./cover-blurb.aux) ) 
 Here is how much of TeX's memory you used:
- 4160 strings out of 479418
- 118042 string characters out of 5888104
- 411142 words of memory out of 5000000
- 21635 multiletter control sequences out of 15000+600000
+ 4139 strings out of 479418
+ 117468 string characters out of 5888104
+ 412145 words of memory out of 5000000
+ 21616 multiletter control sequences out of 15000+600000
  535362 words of font info for 69 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  49i,9n,86p,285b,267s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on cover-blurb.pdf (1 page).
+Output written on cover-blurb.pdf (2 pages).
