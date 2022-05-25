@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.11.10)  18 MAY 2022 18:02
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.11.10)  18 MAY 2022 22:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -308,8 +308,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 112.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 112.
-File: ./photos.web/me.jpg Graphic file (type bmp)
-<./photos.web/me.jpg>
+File: ./photos.web/a_dog_seeing_remote.jpg Graphic file (type bmp)
+<./photos.web/a_dog_seeing_remote.jpg>
 File: ./photos.web/me.jpg Graphic file (type bmp)
 <./photos.web/me.jpg>
 [1
@@ -321,10 +321,10 @@ Overfull \vbox (26.44963pt too high) has occurred while \output is active []
 
  [2] (./cover-blurb.aux) ) 
 Here is how much of TeX's memory you used:
- 4139 strings out of 479418
- 117468 string characters out of 5888104
- 412145 words of memory out of 5000000
- 21616 multiletter control sequences out of 15000+600000
+ 4145 strings out of 479418
+ 117670 string characters out of 5888104
+ 411149 words of memory out of 5000000
+ 21621 multiletter control sequences out of 15000+600000
  535362 words of font info for 69 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  49i,9n,86p,285b,267s stack positions out of 5000i,500n,10000p,200000b,80000s

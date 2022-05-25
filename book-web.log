@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.11.10)  18 MAY 2022 19:39
+This is XeTeX, Version 3.14159265-2.6-0.999992 (TeX Live 2020/W32TeX) (preloaded format=xelatex 2020.11.10)  25 MAY 2022 20:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -450,7 +450,14 @@ File: se-ascii-print.def 2019/11/29 v1.12 stringenc: Printable ASCII characters
 ]
 File: ./photos.web/me_night.jpg Graphic file (type bmp)
 <./photos.web/me_night.jpg>
- [3] [4] [5]
+ [3]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 58.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 58.
+Invalid UTF-8 byte or sequence at line 61 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 61 replaced by U+FFFD.
+ [4] [5]
 File: ./photos.web/the70ceremany.jpg Graphic file (type bmp)
 <./photos.web/the70ceremany.jpg>
  [6]
@@ -460,8 +467,8 @@ File: ./photos.web/theQingChengPart.jpg Graphic file (type bmp)
 File: ./photos.web/the_Qingcheng_park_lake_in_spring.jpg Graphic file (type bmp)
 <./photos.web/the_Qingcheng_park_lake_in_spring.jpg>
  [8]
-File: ./photos.web/thhfhjggjkh.jpg Graphic file (type bmp)
-<./photos.web/thhfhjggjkh.jpg>
+File: ./photos.web/most_loved_cloves.jpg Graphic file (type bmp)
+<./photos.web/most_loved_cloves.jpg>
  [9]
 File: ./photos.web/sounder_in_city.jpg Graphic file (type bmp)
 <./photos.web/sounder_in_city.jpg>
@@ -471,12 +478,7 @@ File: ./photos.web/ruyi_river_fangting.jpg Graphic file (type bmp)
  [11]
 File: ./photos.web/the_grocery.jpg Graphic file (type bmp)
 <./photos.web/the_grocery.jpg>
- [12]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 157.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 157.
-) [13]
+ [12]) [13]
 File: ./photos.web/R20090619-103748.jpg Graphic file (type bmp)
 <./photos.web/R20090619-103748.jpg>
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 133.
@@ -492,11 +494,11 @@ Package rerunfilecheck Info: File `book-web.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 133.
  ) 
 Here is how much of TeX's memory you used:
- 11500 strings out of 479418
- 225911 string characters out of 5888104
+ 11484 strings out of 479418
+ 225608 string characters out of 5888104
  529094 words of memory out of 5000000
- 28849 multiletter control sequences out of 15000+600000
- 533026 words of font info for 66 fonts, out of 8000000 for 9000
+ 28829 multiletter control sequences out of 15000+600000
+ 533034 words of font info for 67 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  49i,5n,86p,282b,315s stack positions out of 5000i,500n,10000p,200000b,80000s
 
